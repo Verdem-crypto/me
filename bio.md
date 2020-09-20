@@ -44,5 +44,5 @@ Discord Server: http://discord.link/verdem or https://discord.gg/MQPfYh4
 
 # DO YOU LIKE WHAT I DO?
 
-Can you buy me a coffee?
-https://www.buymeacoffee.com/Verdem
+Can you buy me a slice of pizza?
+https://bmc.xyz/Verdem
