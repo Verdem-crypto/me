@@ -12,17 +12,21 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ### WEBSITES
 
-https://emailsharing.blogspot.com/
+EmailSharing: https://emailsharing.blogspot.com/
 
-http://verdemblog.blogspot.com/
+VerdemBlog: http://verdemblog.blogspot.com/
 
-https://verforward.blogspot.com/
+VerForward: https://verforward.blogspot.com/
 
-https://veryourblog.blogspot.com/
+YourBlog: https://veryourblog.blogspot.com/
 
-http://verdemtv.000webhostapp.com/verbin/
+VerBin: http://verdemtv.000webhostapp.com/verbin/
 
-http://verdemtv.000webhostapp.com/verhost/
+VerHost: http://verdemtv.000webhostapp.com/verhost/
+
+### MUSIC
+
+PartyBeats: https://youtu.be/A4_2Zb_kr04
 
 # MYSELF EVERYWHERE
 
@@ -35,6 +39,8 @@ YouTube: https://www.youtube.com/Verdem
 Email: verdemcontact@gmail.com
 
 Discord: Verdem#5324
+
+Discord Server: http://discord.link/verdem or https://discord.gg/MQPfYh4
 
 # DO YOU LIKE WHAT I DO?
 
