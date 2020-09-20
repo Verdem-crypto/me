@@ -24,11 +24,19 @@ http://verdemtv.000webhostapp.com/verbin/
 
 http://verdemtv.000webhostapp.com/verhost/
 
+# MYSELF EVERYWHERE
+
+Twitter: https://twitter.com/verdemchannel
+
+GitHub: https://github.com/Verdem-crypto
+
+YouTube: https://www.youtube.com/Verdem
+
+Email: verdemcontact@gmail.com
+
+Discord: Verdem#5324
+
 # DO YOU LIKE WHAT I DO?
 
 Can you buy me a coffee?
 https://www.buymeacoffee.com/Verdem
-
-# CONTACT ME
-
-You can contact me by email at verdemcontact@gmail.com, via Discord: Verdem#5324 or via Twitter: VerdemChannel.
