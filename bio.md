@@ -20,7 +20,7 @@ VerForward: http://verforward.blogspot.com/
 
 YourBlog: http://veryourblog.blogspot.com/
 
-VerdemBlogUrls: http://verdemblogurls.blogspot.com/
+VerUrlCamo: http://verurlcamo.blogspot.com/
 
 VerBin: https://verdemtv.000webhostapp.com/verbin/
 
