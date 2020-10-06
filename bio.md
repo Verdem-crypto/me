@@ -22,9 +22,9 @@ YourBlog: http://veryourblog.blogspot.com/
 
 VerUrlCamo: http://verurlcamo.blogspot.com/
 
-VerBin: https://verdemtv.000webhostapp.com/verbin/
+VerBin: http://verdemtv.page.link/verhost/
 
-VerHost: https://verdemtv.000webhostapp.com/verhost/
+VerHost: http://verdemtv.page.link/verbin/
 
 ### MUSIC
 
