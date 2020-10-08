@@ -14,18 +14,27 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [EmailSharing](http://emailsharing.blogspot.com/)
 
-[VerdemBlog](http://verdemblog.blogspot.com/)
+
+
+[VerdemBlog (ita)](http://verdemblog.blogspot.com/)
+
+All the most important tech news in one place. There is no need to register. The service is free!
 
 [VerForward](http://verforward.blogspot.com/)
 
-[YourBlog](http://veryourblog.blogspot.com/)
+Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
 [VerUrlCamo](http://verurlcamo.blogspot.com/)
 
-[VerBin](http://verdemtv.page.link/verhost/)
+This service helps disguise links so you can play pranks on your friends! There is no need to register. The service is free!
 
-[VerHost](http://verdemtv.page.link/verbin/)
-VerHost provides an easy possibility for you to send files online. This service is completely free for everyone!
+[VerBin](http://verdemtv.page.link/verbin/)
+
+VerBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. There is no need to register. The service is free!
+
+[VerHost](http://verdemtv.page.link/verhost/)
+
+VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
 ### MUSIC
 
