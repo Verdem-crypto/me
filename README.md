@@ -25,6 +25,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 [VerBin](http://verdemtv.page.link/verhost/)
 
 [VerHost](http://verdemtv.page.link/verbin/)
+VerHost provides an easy possibility for you to send files online. This service is completely free for everyone!
 
 ### MUSIC
 
@@ -42,7 +43,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 Discord (eng-ita): Verdem#5324
 
-[Discord (ita)](http://discord.gg/MQPfYh4)
+[Discord server (ita)](http://discord.gg/MQPfYh4)
 
 # DO YOU LIKE WHAT I DO?
 
