@@ -36,6 +36,10 @@ VerBin is a minimalist, open source online pastebin where the server has zero kn
 
 VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
+[VerGitHTML](http://verdemtv.page.link/vergithtml)
+
+VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
+
 ### MUSIC
 
 [PartyBeats](http://youtu.be/A4_2Zb_kr04)
