@@ -15,7 +15,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 ## WEBSITES
 
 [EmailSharing (ENG)](http://emailsharing.blogspot.com/)
-
 Email address sharing service (TEMP MAIL). There is no need to register. The service is free!
 
 [VerdemBlog (ITA)](http://verdemblog.blogspot.com/)
