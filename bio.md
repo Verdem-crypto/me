@@ -62,6 +62,7 @@ Discord (ENG-ITA): Verdem#5324
 
 [Buy my merch because i'm cool (ENG)](http://teespring.com/stores/verdem)
 
+# OTHER
 
 ### TERMS LEGEND
 
@@ -76,5 +77,3 @@ eng= LESS ENGLISH LANGUAGE
 ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
-
-
