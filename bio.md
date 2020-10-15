@@ -12,33 +12,37 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ### WEBSITES
 
-[EmailSharing (NOW ENG!)](http://emailsharing.blogspot.com/)
+[EmailSharing (ENG)](http://emailsharing.blogspot.com/)
 
 Email address sharing service (TEMP MAIL). There is no need to register. The service is free!
 
-[VerdemBlog (ita)](http://verdemblog.blogspot.com/)
+[VerdemBlog (ITA)](http://verdemblog.blogspot.com/)
 
 All the most important tech news in one place. There is no need to register. The service is free!
 
-[VerForward](http://verforward.blogspot.com/) (CLOSED!)
+[VerForward (ITA)](http://verforward.blogspot.com/) (CLOSED!)
 
 Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
-[VerUrlCamo](http://verurlcamo.blogspot.com/)
+[VerUrlCamo (ENG)](http://verurlcamo.blogspot.com/)
 
 This service helps disguise links so you can play pranks on your friends! There is no need to register. The service is free!
 
-[VerBin](http://verdemtv.page.link/verbin/)
+[VerBin (ENG)](http://verdemtv.page.link/verbin/) (IN MAINTENANCE)
 
 VerBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. There is no need to register. The service is free!
 
-[VerHost](http://verdemtv.page.link/verhost/)
+[VerHost (ENG)](http://verdemtv.page.link/verhost/)
 
 VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
-[VerGitHTML](http://verdemtv.page.link/vergithtml)
+[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml)
 
 VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
+
+[VerMUSH (NEW!) (ENG)] (http://verdemtv.page.link/vermush)
+
+VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
 ### MUSIC
 
@@ -52,14 +56,28 @@ VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning 
 
 [YouTube channel (eng-ITA)](http://www.youtube.com/Verdem)
 
-[Email (eng-ita)](mailto:verdemcontact@gmail.com)
+[Email (ENG-ITA)](mailto:verdemcontact@gmail.com)
 
-Discord (eng-ita): Verdem#5324
+Discord (ENG-ITA): Verdem#5324
 
-[Discord server (ita)](http://discord.gg/MQPfYh4)
+[Discord server (ITA)](http://discord.gg/MQPfYh4)
 
 # DO YOU LIKE WHAT I DO?
 
-[Buy me a coffee](http://www.buymeacoffee.com/Verdem)
+[Buy me a coffee (ENG)](http://www.buymeacoffee.com/Verdem)
 
-[Buy my merch because i'm cool](http://teespring.com/stores/verdem)
+[Buy my merch because i'm cool (ENG)](http://teespring.com/stores/verdem)
+
+## TERMS LEGEND
+
+ENG= MORE (OR ALL) ENGLISH LANGUAGE
+
+ITA= MORE (OR ALL) ITALIAN LANGUAGE
+
+ita= LESS ITALIAN LANGUAGE
+
+eng= LESS ENGLISH LANGUAGE
+
+ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
+
+ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
