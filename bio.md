@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-### MARCO VERDE
+## MARCO VERDE
 
 aka "Verdem"
 
@@ -10,7 +10,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 # MY PROJECTS
 
-### WEBSITES
+## WEBSITES
 
 [EmailSharing (ENG)](http://emailsharing.blogspot.com/)
 
@@ -68,7 +68,7 @@ Discord (ENG-ITA): Verdem#5324
 
 [Buy my merch because i'm cool (ENG)](http://teespring.com/stores/verdem)
 
-## TERMS LEGEND
+#### TERMS LEGEND
 
 ENG= MORE (OR ALL) ENGLISH LANGUAGE
 
