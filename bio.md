@@ -1,4 +1,4 @@
-[![Discord](//iili.io/2bRBAF.png)]
+[![Discord](https:////iili.io/2bRBAF.png)]
 
 # INTRODUCTION
 
