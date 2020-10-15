@@ -1,3 +1,5 @@
+[![Discord](//iili.io/2bRBAF.png)]
+
 # INTRODUCTION
 
 ## MARCO VERDE
