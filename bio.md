@@ -1,4 +1,4 @@
-[![Discord](https:////iili.io/2bRBAF.png)]
+[![Verdem Logo](https:////iili.io/2bRBAF.png)](https://github.com/Verdem-crypto/me/edit/master/bio.md#marco-verde)
 
 # INTRODUCTION
 
