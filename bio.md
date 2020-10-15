@@ -38,7 +38,7 @@ VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning 
 [VerMUSH (ENG)](http://verdemtv.page.link/vermush) 
 VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
-### MUSIC
+## MUSIC
 
 [PartyBeats](http://youtu.be/A4_2Zb_kr04)
 
