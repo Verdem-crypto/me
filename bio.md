@@ -1,4 +1,4 @@
-[![Verdem Logo](https://iili.io/2bRBAF.png)]
+![Verdem Logo](https://iili.io/2bRBAF.png)
 
 # INTRODUCTION
 
