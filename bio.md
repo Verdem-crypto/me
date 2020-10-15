@@ -35,7 +35,7 @@ VerHost provides an easy possibility for you to send files online. There is no n
 [VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml)
 VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
-[VerMUSH (NEW!) (ENG)] (http://verdemtv.page.link/vermush)
+[VerMUSH (NEW!) (ENG)] (http://verdemtv.page.link/vermush) 
 VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
 ### MUSIC
