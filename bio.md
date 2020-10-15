@@ -12,7 +12,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ### WEBSITES
 
-[EmailSharing (ita)](http://emailsharing.blogspot.com/)
+[EmailSharing (NOW ENG!)](http://emailsharing.blogspot.com/)
 
 Email address sharing service (TEMP MAIL). There is no need to register. The service is free!
 
@@ -20,7 +20,7 @@ Email address sharing service (TEMP MAIL). There is no need to register. The ser
 
 All the most important tech news in one place. There is no need to register. The service is free!
 
-[VerForward](http://verforward.blogspot.com/)
+[VerForward](http://verforward.blogspot.com/) (CLOSED!)
 
 Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
