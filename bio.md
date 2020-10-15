@@ -18,31 +18,24 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 Email address sharing service (TEMP MAIL). There is no need to register. The service is free!
 
 [VerdemBlog (ITA)](http://verdemblog.blogspot.com/)
-
 All the most important tech news in one place. There is no need to register. The service is free!
 
 [VerForward (ITA)](http://verforward.blogspot.com/) (CLOSED!)
-
 Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
 [VerUrlCamo (ENG)](http://verurlcamo.blogspot.com/)
-
 This service helps disguise links so you can play pranks on your friends! There is no need to register. The service is free!
 
 [VerBin (ENG)](http://verdemtv.page.link/verbin/) (IN MAINTENANCE)
-
 VerBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. There is no need to register. The service is free!
 
 [VerHost (ENG)](http://verdemtv.page.link/verhost/)
-
 VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
 [VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml)
-
 VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
 [VerMUSH (NEW!) (ENG)] (http://verdemtv.page.link/vermush)
-
 VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
 ### MUSIC
