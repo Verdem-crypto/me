@@ -66,6 +66,8 @@ Discord (ENG-ITA): Verdem#5324
 
 [Discord server (ITA)](http://discord.gg/MQPfYh4)
 
+[GitHub pages (ENG)](http://verdem-crypto.github.io/)
+
 # SUPPORT ME
 
 [Buy me a coffee (ENG)](http://www.buymeacoffee.com/Verdem)
